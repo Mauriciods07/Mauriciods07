@@ -10,6 +10,8 @@ I'm a Fullstack developer who is always learning. I have studied Hispanic Litera
 
 - 💡 I'm always willing to participate in new projects.
 
+- 💞 Cofounder of @LoveLabsCompany
+
 # My stack of technologies!
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
